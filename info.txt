@@ -1,0 +1,4 @@
+This is a writing simulation which allows to check
+your speed of typing. You need to read the sentence
+and write without mistakes. After you can see number
+of mistakes. Good luck!
